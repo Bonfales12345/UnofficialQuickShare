@@ -1,3 +1,6 @@
+UnofficialQuickShare is a fork of **NearDrop** With more features.
+
+
 **NearDrop** is a partial implementation of [Google's Nearby Share](https://blog.google/products/android/nearby-share/)/Quick Share for macOS.
 
 [Protocol documentation](/PROTOCOL.md) is available separately.
